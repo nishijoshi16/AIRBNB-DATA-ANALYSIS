@@ -20,7 +20,7 @@
 
 PAGE 1: Airbnb Listings Analysis: Unveiling Trends:
 
-<img width="1444" height="770" alt="1" src="https://github.com/user-attachments/assets/95930fdf-3fe5-4ce8-bcc8-6e3a68cb08f0" />
+<img width="1444" height="770" alt="1" src="https://github.com/user-attachments/assets/119bbee7-7250-42b9-bebe-3f4fb115bc76" />
 
 
 🌟 1. Features and Highlights: This interactive dashboard addresses several key business problems and provides valuable insights:
